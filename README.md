@@ -25,9 +25,9 @@
 ✉️ &nbsp;Puedes enviarme un correo electrónico a [moscadylantr@gmail.com](mailto:moscadylantr@gmail.com). Haré lo posible por responder lo más pronto posible.
 
 📄 &nbsp;Echa un vistazo a mi perfil de LinkedIn para más detalles sobre mí. ¡Estoy abierto a recibir feedback y sugerencias!
-
+<p align="center">
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
+</p>
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
