@@ -6,7 +6,7 @@
 </p>
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNzcGFmaTEyYnBjaG4ybG43bjJ1NXR3ejhrNmRqdXd4amk3YjZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tVXqVRdInsRIajEqKp/giphy.gif" width = 50px></picture> **About me**
 
 <br>
 
