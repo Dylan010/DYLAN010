@@ -36,11 +36,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan010&show_icons=true&theme=radical&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylan010&layout=compact&theme=radical)
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
