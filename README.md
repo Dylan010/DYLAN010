@@ -6,7 +6,7 @@
 </p>
 <br>
 
-## <picture><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNzcGFmaTEyYnBjaG4ybG43bjJ1NXR3ejhrNmRqdXd4amk3YjZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tVXqVRdInsRIajEqKp/giphy.gif" width = 200px></picture> **About me**
+## <picture><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNzcGFmaTEyYnBjaG4ybG43bjJ1NXR3ejhrNmRqdXd4amk3YjZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tVXqVRdInsRIajEqKp/giphy.gif" width = 1200px></picture> **About me**
 
 <br>
 
